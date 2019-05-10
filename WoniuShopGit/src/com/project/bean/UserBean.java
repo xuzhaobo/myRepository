@@ -29,10 +29,7 @@ public class UserBean {
 		this.pwd = pwd;
 	}
 
-	@Override
-	public String toString() {
-		return "UserBean [id=" + id + ", name=" + name + ", pwd=" + pwd + "]";
-	}
+
 	
 	
 }
